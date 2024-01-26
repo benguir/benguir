@@ -1,6 +1,6 @@
 # Bonjour et bienvenue sur mon git 👋
 
-Je me présente Benguigui Romainé étudiant à l'IA School 1ère année de Mastère, Chef de projet IA et altenrant chez ADP leader mondiale du service RH basée à Blagnac (France)
+Je me présente Benguigui Romainé étudiant à l'IA School 1ère année de Mastère, Chef de projet IA et altenrant chez [ADP](https://www.adp.com) leader mondiale du service RH basée à Blagnac (France)
 
 ## Projet 📓
 
